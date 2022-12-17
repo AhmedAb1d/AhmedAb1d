@@ -17,7 +17,8 @@
 <br />
 <br />
 
-## Tech Stack
+<div align="center">
+### 🛠 &nbsp;Tech Stack
 
 <br />
 <a margin="10" href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/html.svg" alt="html"></a>
