@@ -6,12 +6,13 @@
 
 
 
-
+<p align="left">
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I'm currently studying Computer Science and Software Engineering.\
 🌱 &nbsp;I'm learning more about Software Development, Systems Design, and Cloud Architecture.\
+</p>
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right" />
 <br />
