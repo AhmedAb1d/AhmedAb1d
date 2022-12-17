@@ -11,10 +11,9 @@
 ### 👨🏻‍💻 &nbsp;About Me
 <br />
 <br />
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying Computer Science and Software Engineering.\
-🌱 &nbsp;I'm learning more about Software Development, Systems Design, and Cloud Architecture.
-
+💡 I like to explore new technologies and develop software solutions and quick hacks.<br/>
+🎓 I'm currently studying Computer Science and Software Engineering.<br/>
+🌱 I'm learning more about Software Development, Systems Design, and Cloud Architecture.
 <br />
 <br />
 <br />
@@ -41,8 +40,10 @@
 
 <div align="center">
 <br />
-
-### ⚙️ &nbsp;GitHub Analytics
+ 
+<h1 align="center">
+⚙️ GitHub Analytics
+<h1>
 
 <p align="center">
 <a href="https://github.com/AVS1508">
@@ -51,7 +52,9 @@
 </a>
 </p>
  
- ### 🤝🏻 &nbsp;Connect with Me
+<h1 align="center">
+🤝🏻 Connect with Me
+<h1>
 
 <p align="center"> </a> 
 <a href="https://www.facebook.com/ahmed.abiidd/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a>
