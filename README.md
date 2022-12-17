@@ -6,6 +6,7 @@
 
 
 
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right" />
 
 ### 👨🏻‍💻 &nbsp;About Me
 
@@ -13,7 +14,6 @@
 🎓 &nbsp;I'm currently studying Computer Science and Software Engineering.\
 🌱 &nbsp;I'm learning more about Software Development, Systems Design, and Cloud Architecture.
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right" />
 <br />
 <br />
 
@@ -44,7 +44,7 @@
 <p align="center">
 <a href="https://github.com/AVS1508">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AhmedAb1d&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AhmedAb1d&layout=compact&langs_count=8&theme=dark&bg_color=00FFFF"/>
 </a>
 </p>
  
