@@ -41,9 +41,9 @@
 <div align="center">
 <br />
  
-<h1 align="center">
+<h2 align="center">
 ⚙️ GitHub Analytics
-</h1>
+</h2>
 
 <p align="center">
 <a href="https://github.com/AVS1508">
