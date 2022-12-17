@@ -9,7 +9,8 @@
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right" />
 
 ### 👨🏻‍💻 &nbsp;About Me
-
+<br />
+<br />
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I'm currently studying Computer Science and Software Engineering.\
 🌱 &nbsp;I'm learning more about Software Development, Systems Design, and Cloud Architecture.
@@ -17,10 +18,9 @@
 <br />
 <br />
 <br />
-<br />
 
 <h1 align="center">
-### 🛠 &nbsp;Tech Stack
+🛠 &nbsp;Tech Stack
 <h1>
 <div align="center">
 <br />
