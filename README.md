@@ -16,9 +16,12 @@
 
 <br />
 <br />
+<br />
+<br />
 
-
+<h1 align="center">
 ### 🛠 &nbsp;Tech Stack
+<h1>
 <div align="center">
 <br />
 <a margin="10" href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/html.svg" alt="html"></a>
@@ -43,8 +46,8 @@
 
 <p align="center">
 <a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AhmedAb1d&layout=compact&langs_count=8&theme=dark&bg_color=00FFFF"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&show_icons=true&theme=dark&bg_color=0A0A0A&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AhmedAb1d&layout=compact&langs_count=8&theme=dark&bg_color=0A0A0A"/>
 </a>
 </p>
  
