@@ -41,9 +41,9 @@
 <div align="center">
 <br />
  
-<h2 align="center">
+<h3 align="center">
 ⚙️ GitHub Analytics
-</h2>
+</h3>
 
 <p align="center">
 <a href="https://github.com/AVS1508">
@@ -52,9 +52,9 @@
 </a>
 </p>
  
-<h1 align="center">
+<h4 align="center">
 🤝🏻 Connect with Me
-</h1>
+</h4>
 
 <p align="center"> </a> 
 <a href="https://www.facebook.com/ahmed.abiidd/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a>
