@@ -4,7 +4,8 @@
  <strong> Hi there 👋! I am Ahmed</strong>
 </h1>
 
-
+<br />
+<br />
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right" />
 
@@ -36,7 +37,6 @@
 <a margin="10" href="https://devdocs.io/c/" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/c.svg" alt="c programming"></a>
 </div>
 <br />
-<br />
 
 <div align="center">
 <br />
@@ -51,7 +51,7 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AhmedAb1d&layout=compact&langs_count=8&theme=dark&bg_color=0A0A0A"/>
 </a>
 </p>
- <br />
+ 
  <br />
 <h4 align="center">
 🤝🏻 Connect with Me
