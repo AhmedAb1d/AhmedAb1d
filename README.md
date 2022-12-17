@@ -11,9 +11,9 @@
 ### 👨🏻‍💻 &nbsp;About Me
 <br />
 <br />
-💡 I like to explore new technologies and develop software solutions and quick hacks.<br/>
+💡 I like to explore new technologies and develop software solutions.<br/>
 🎓 I'm currently studying Computer Science and Software Engineering.<br/>
-🌱 I'm learning more about Software Development, Systems Design, and Cloud Architecture.
+🌱 I'm learning more about Software Development and Cloud Architecture.
 <br />
 <br />
 <br />
