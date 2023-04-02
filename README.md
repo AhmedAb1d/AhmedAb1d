@@ -24,20 +24,20 @@
 <h1>
 <div align="center">
 <br />
-<a margin="10" href="https://figma.com" target="_blank"><img margin="10px" height="40" src="./Icons/AWS-Dark.svg" alt="AWS"/>
-<a margin="10" href="https://figma.com" target="_blank"><img margin="10px" height="40" src="./Icons/Docker.svg" alt="Docker"/>
-<a margin="10" href="https://figma.com" target="_blank"><img margin="10px" height="40" src="./Icons/Bash-Dark.svg" alt="Bash"/>
-<a margin="10" href="https://figma.com" target="_blank"><img margin="10px" height="40" src="./Icons/Redis-Dark.svg" alt="Redis"/>
-<a margin="10" href="https://figma.com" target="_blank"><img margin="10px" height="40" src="./Icons/Nginx.svg" alt="Nginx"/>
-<a margin="10" href="https://figma.com" target="_blank"><img margin="10px" height="40" src="./Icons/GithubActions-Dark.svg" alt="GithubActions"/>
-<a margin="10" href="https://figma.com" target="_blank"><img margin="10px" height="40" src="./Icons/Kubernetes.svg" alt="Kubernetes"/>
+<a margin="10" href="https://aws.amazon.com/" target="_blank"><img margin="10px" height="40" src="./Icons/AWS-Dark.svg" alt="AWS"/>
+<a margin="10" href="https://www.docker.com" target="_blank"><img margin="10px" height="40" src="./Icons/Docker.svg" alt="Docker"/>
+<a margin="10" href="https://www.gnu.org/software/bash/" target="_blank"><img margin="10px" height="40" src="./Icons/Bash-Dark.svg" alt="Bash"/>
+<a margin="10" href="https://redis.io/" target="_blank"><img margin="10px" height="40" src="./Icons/Redis-Dark.svg" alt="Redis"/>
+<a margin="10" href="https://www.nginx.com/" target="_blank"><img margin="10px" height="40" src="./Icons/Nginx.svg" alt="Nginx"/>
+<a margin="10" href="https://github.com/features/actions" target="_blank"><img margin="10px" height="40" src="./Icons/GithubActions-Dark.svg" alt="GithubActions"/>
+<a margin="10" href="https://kubernetes.io/" target="_blank"><img margin="10px" height="40" src="./Icons/Kubernetes.svg" alt="Kubernetes"/>
 <a margin="10" href="https://nodejs.org" target="_blank"><img margin="10px" height="40" src="./Icons/NodeJS-Dark.svg" alt="nodejs"/>
 <a margin="10" href="https://reactjs.org" target="_blank"><img margin="10px" height="40" src="./Icons/React-Dark.svg" alt="react"/>
 <a margin="10" href="https://mongodb.com" target="_blank"><img margin="10px" height="40" src="./Icons/MongoDB.svg" alt="mongodb"/>
 <a margin="10" href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img margin="10px" height="40" src="./Icons/HTML.svg" alt="html"/>
 <a margin="10" href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img margin="10px" height="40" src="./Icons/CSS.svg" alt="css"/>
 <a margin="10" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img margin="10px" height="40" src="./Icons/JavaScript.svg" alt="javascript"/>
-<a margin="10" href="https://figma.com" target="_blank"><img margin="10px" height="40" src="./Icons/Python-Dark.svg" alt="Python"/>
+<a margin="10" href="https://www.python.org/" target="_blank"><img margin="10px" height="40" src="./Icons/Python-Dark.svg" alt="Python"/>
 <a margin="10" href="https://figma.com" target="_blank"><img margin="10px" height="40" src="./Icons/Figma-Dark.svg" alt="figma"/>
 <!-- <a margin="10" href="https://figma.com" target="_blank"><img margin="10px" height="40" src="./Icons/ExpressJS-Dark.svg" alt="ExpressJS"/> -->
 <!-- <a margin="10" href="https://figma.com" target="_blank"><img margin="10px" height="40" src="./Icons/Git.svg" alt="Git"/> -->
