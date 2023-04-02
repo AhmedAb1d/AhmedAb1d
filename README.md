@@ -1,5 +1,3 @@
-
-
 <h1 align="center">
  <strong> Hi there 👋! I am Ahmed</strong>
 </h1>
@@ -10,6 +8,7 @@
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right" />
 
 ### 👨🏻‍💻 &nbsp;About Me
+
 <br />
 <br />
 💡 I like to explore new technologies and develop software solutions.<br/>
@@ -25,17 +24,16 @@
 <h1>
 <div align="center">
 <br />
+<a margin="10" href="https://figma.com" target="_blank"><img margin="10px" height="40" src="./Icons/AWS-Dark.svg" alt="AWS"/>
+<a margin="10" href="https://figma.com" target="_blank"><img margin="10px" height="40" src="./Icons/Bash-Dark.svg" alt="Figma"/>
+<a margin="10" href="https://figma.com" target="_blank"><img margin="10px" height="40" src="./Icons/Docker.svg" alt="Docker"/>
 <a margin="10" href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img margin="10px" height="40" src="./Icons/HTML.svg" alt="html"></a>
-<a margin="10" href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/css.svg" alt="css"></a>
-<a margin="10" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/javascript.svg" alt="javascript"></a>
-<a margin="10" href="https://mui.com" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/materialui.svg" alt="material ui"></a>
-<a margin="10" href="https://figma.com" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/figma.svg" alt="figma"></a>
-<a margin="10" href="https://reactjs.org" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/react.svg" alt="react"></a>
-<a margin="10" href="https://nextjs.org" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/nextjs.svg" alt="next js"></a>
-<a margin="10" href="https://nodejs.org" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/nodejs.svg" alt="nodejs"></a>
-<a margin="10" href="https://firebase.google.com" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/firebase.svg" alt="firebase"></a>
-<a margin="10" href="https://mongodb.com" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/mongodb.svg" alt="mongodb"></a>
-<a margin="10" href="https://devdocs.io/c/" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/c.svg" alt="c programming"></a>
+<a margin="10" href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img margin="10px" height="40" src="./Icons/CSS.svg" alt="css"></a>
+<a margin="10" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img margin="10px" height="40" src="./Icons/JavaScript.svg" alt="javascript"></a>
+<a margin="10" href="https://figma.com" target="_blank"><img margin="10px" height="40" src="./Icons/Figma-Dark.svg" alt="figma"></a>
+<a margin="10" href="https://reactjs.org" target="_blank"><img margin="10px" height="40" src="./Icons/React-Dark.svg" alt="react"></a>
+<a margin="10" href="https://nodejs.org" target="_blank"><img margin="10px" height="40" src="./Icons/NodeJS-Dark.svg" alt="nodejs"></a>
+<a margin="10" href="https://mongodb.com" target="_blank"><img margin="10px" height="40" src="./Icons/MongoDB.svg" alt="mongodb"></a>
 </div>
 <br />
 
@@ -63,6 +61,4 @@
 <a href="https://www.github.com/AhmedAb1d" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> 
 <a href="https://discord.com/users/S.w.t#0332" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> 
 <a href="https://www.linkedin.com/in/ahmed--abid" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
-<a href="https://www.stackoverflow.com/users/17696619/ahmed-abid" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> 
-
-
+<a href="https://www.stackoverflow.com/users/17696619/ahmed-abid" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a>
