@@ -13,7 +13,6 @@
 <br />
 💡 I like to explore new technologies and develop software solutions.<br/>
 🎓 I'm currently studying Computer Science and Software Engineering.<br/>
-🌱 I'm learning more about Software Development and Cloud Architecture.
 <br />
 <br />
 <br />
